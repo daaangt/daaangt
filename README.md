@@ -1,4 +1,4 @@
-## Danilo Galvão
+## Danilo Galvão <br> Web Developer PHP
 <div style="display: inline_block;">
   <a href="https://github.com/daaangt">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daaangt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
