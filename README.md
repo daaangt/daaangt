@@ -23,4 +23,5 @@
 <div style="display: inline_block;" align="center">
   <a href="https://www.linkedin.com/in/danilogalvao/"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
   <a href="mailto:galvaodanilo1999@gmail.com"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg"></a>
+  <a href="https://discord.com/users/271804986436878339"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/discord-icon.svg"></a> 
 </div>
